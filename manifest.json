@@ -1,0 +1,25 @@
+{
+  "name": "RetailAI",
+  "short_name": "RetailAI",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#2563EB",
+  "description": "AI Powered Smart Shopping Website",
+  "icons": [
+    {
+      "src": "favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
+ 
+ <li><a href="index.html">Home</a></li>
+<li><a href="products.html">Products</a></li>
+<li><a href="about.html">About</a></li>
+<li><a href="contact.html">Contact</a></li>
+<li><a href="categories.html">Categories</a></li>
+
+<li><a href="orders.html">Orders</a></li>
+
